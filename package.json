@@ -1,0 +1,10 @@
+{
+  "name": "testcafe-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alex Bakanov <manych@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "testcafe": "^1.7.0"
+  }
+}
